@@ -15,8 +15,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Python" title="BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=00000" />
-<br/>
+<img align="left" alt="Python" title="BI" width="30px" style="padding-right: 10px;" src="https://http://www.w3.org/2000/svg<br/>
 <br/>
 
 ---
