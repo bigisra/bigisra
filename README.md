@@ -1,7 +1,7 @@
 
 “Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.” – Martin Luther King ✊🏿
 <hr>
-Estudante apaixonado por **tecnologia, ciência e socioeconomia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais consciente, empático e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
+Estudante apaixonado por tecnologia, ciência e socioeconomia. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais consciente, empático e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-barros-44a453308/)
