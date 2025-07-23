@@ -1,8 +1,25 @@
 
 “Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.” – Martin Luther King ✊🏿
 <hr>
-Estudante apaixonado por tecnologia, ciência e socioeconomia. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais consciente, empático e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
-Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
+Blerd | Ihave a Dream
+
+Direita social | Cristão
+ 
+
+Estudante de Ciência de Dados e especialista Técnico em Gestão de Projetos pelo Centro Paula Souza | FATEC JUNDIAÍ e ETEC CEPAM.
+
+Formado pela ETEC CEPAM escola de Gestão Pública e desde de sempre envolvido em discussões políticas de forma neutra e respeitosa.
+
+Apaixonado por ficção cientifica e sobre politicas socioeconômicas uso minha carreira para fazer o IDE, ajudando o pobre o necessitado, o órfão e a viúva.
+
+Já escolheu sua ODS colega? Tá realmente acompanhando o futuro? Vamos juntos!
+
+
+Estudante de Teologia na Universidade Metodista de São Paulo | UMESP 
+
+Te ensino sobre um Deus simples fora da visão Teológica Dogmática, ideológica ou religiosa.
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-barros-44a453308/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisra.barros@gmail.com)
