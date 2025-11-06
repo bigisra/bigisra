@@ -6,18 +6,14 @@
 Direita social | Cristão
  
 
-Estudante de Ciência de Dados e especialista Técnico em Gestão de Projetos pelo Centro Paula Souza | FATEC JUNDIAÍ e ETEC CEPAM.
+Sou estudante de Ciência de Dados e especialista técnico em Gestão de Projetos pelo Centro Paula Souza, com formações pela FATEC Jundiaí e ETEC CEPAM, instituição referência em Gestão Pública.
 
-Formado pela ETEC CEPAM escola de Gestão Pública e desde de sempre envolvido em discussões políticas de forma neutra e respeitosa.
+Durante minha trajetória, participei de projetos voltados à modernização administrativa, planejamento operacional e análise de dados, com foco em eficiência e inovação. Busco aplicar o raciocínio analítico da tecnologia para apoiar decisões estratégicas e melhorar processos de gestão, tanto no setor público quanto no privado.
 
-Apaixonado por ficção cientifica e sobre politicas socioeconômicas uso minha carreira para fazer o IDE, ajudando o pobre o necessitado, o órfão e a viúva.
+Fui selecionado para o Aspire Leaders Program, iniciativa global de liderança da Harvard University, onde desenvolvi soft skills essenciais, como comunicação assertiva, pensamento crítico, empatia, inteligência emocional e liderança colaborativa. A experiência ampliou minha visão sobre impacto social, diversidade e o papel da tecnologia na transformação de realidades.
 
-Já escolheu sua ODS colega? Tá realmente acompanhando o futuro? Vamos juntos!
+Acredito que a união entre dados, gestão e responsabilidade social é o caminho para criar soluções sustentáveis e reduzir desigualdades. Tenho como propósito crescer profissionalmente contribuindo com análises que gerem valor real para pessoas e instituições.
 
-
-Estudante de Teologia na Universidade Metodista de São Paulo | UMESP 
-
-Te ensino sobre um Deus simples fora da visão Teológica Dogmática, ideológica ou religiosa.
 
 
 
