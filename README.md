@@ -1,10 +1,6 @@
 
 “Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.” – Martin Luther King ✊🏿
 <hr>
-<b> Blerd | I have a Dream </b>
-
-Direita social | Cristão
- 
 
 Sou estudante de Ciência de Dados e especialista técnico em Gestão de Projetos pelo Centro Paula Souza, com formações pela FATEC Jundiaí e ETEC CEPAM, instituição referência em Gestão Pública.
 
