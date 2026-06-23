@@ -1,15 +1,16 @@
 
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,postgresql,git,github,vscode,linux,docker" />
+</p>
+
 “Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.” – Martin Luther King ✊🏿
 <hr>
 
-Sou estudante de Ciência de Dados e especialista técnico em Gestão de Projetos pelo Centro Paula Souza, com formações pela FATEC Jundiaí e ETEC CEPAM, instituição referência em Gestão Pública.
-
-Durante minha trajetória, participei de projetos voltados à modernização administrativa, planejamento operacional e análise de dados, com foco em eficiência e inovação. Busco aplicar o raciocínio analítico da tecnologia para apoiar decisões estratégicas e melhorar processos de gestão, tanto no setor público quanto no privado.
-
-Fui selecionado para o Aspire Leaders Program, iniciativa global de liderança da Harvard University, onde desenvolvi soft skills essenciais, como comunicação assertiva, pensamento crítico, empatia, inteligência emocional e liderança colaborativa. A experiência ampliou minha visão sobre impacto social, diversidade e o papel da tecnologia na transformação de realidades.
+Estudante do Curso Superior de Tecnologia em Ciência de Dados pela FATEC Jundiaí, com formação técnica em Serviços Jurídicos e especialização em Gestão de Projetos pela ETEC Escola Técnica Estadual de São Paulo. Atuo com foco em análise, integração e visualização de dados, unindo competências de tecnologia, gestão e inovação.
 
 Acredito que a união entre dados, gestão e responsabilidade social é o caminho para criar soluções sustentáveis e reduzir desigualdades. Tenho como propósito crescer profissionalmente contribuindo com análises que gerem valor real para pessoas e instituições.
-
 
 
 
@@ -22,8 +23,18 @@ Acredito que a união entre dados, gestão e responsabilidade social é o caminh
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
+<img align="left" alt="Python" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br/>
 
----
-## 📊 Estatísticas
-| ![Israel GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigisra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
+
+## 🚀 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bigisra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bigisra&theme=tokyo-night"/>
+</p>
