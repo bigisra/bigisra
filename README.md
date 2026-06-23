@@ -28,7 +28,10 @@ Acredito que a união entre dados, gestão e responsabilidade social é o caminh
 
 ## 📊 Projeto de Ciência de Dados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&layout=compact&theme=tokyonight&contributed-by:@me"/>
+## 📊 Projeto de Ciência de Dados
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&layout=compact&theme=tokyonight&repo=Dados-energeticos-IC/Dados-Energ-ticos-26-esta-es
+"/>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bigisra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
