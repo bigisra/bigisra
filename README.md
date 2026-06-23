@@ -26,6 +26,10 @@ Acredito que a união entre dados, gestão e responsabilidade social é o caminh
 
 ## 🚀 GitHub Analytics
 
+## 📊 Projeto de Ciência de Dados
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&layout=compact&theme=tokyonight&contributed-by:@me"/>
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bigisra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&layout=compact&theme=tokyonight&langs_count=10"/>
@@ -35,8 +39,4 @@ Acredito que a união entre dados, gestão e responsabilidade social é o caminh
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bigisra&theme=tokyo-night"/>
 </p>
 
-## 🛠️ Stack Principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,docker,linux,vscode" />
-</p>
