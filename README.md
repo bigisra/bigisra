@@ -21,7 +21,7 @@ Acredito que a união entre dados, gestão e responsabilidade social é o caminh
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,postgresql,git,github,vscode,linux," />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,linux," />
 </p>
 
 
