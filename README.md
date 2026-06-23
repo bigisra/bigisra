@@ -21,26 +21,16 @@ Acredito que a união entre dados, gestão e responsabilidade social é o caminh
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,postgresql,git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,postgresql,git,github,vscode,linux," />
 </p>
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<br/>
-<img align="left" alt="Python" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<br/>
 
 
 ## 🚀 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bigisra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigisra&layout=compact&theme=tokyonight"/>
 </p>
-
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bigisra&theme=tokyo-night"/>
 </p>
